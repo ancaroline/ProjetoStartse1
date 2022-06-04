@@ -38,7 +38,7 @@
     justify-content:space-between;
     text-transform: uppercase;
     padding-left: 40%;
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 
@@ -56,12 +56,12 @@
 
 #planos .planos-info h1 {
     color: #6667AB;
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
 }
 
 #planos .planos-info h2 {
     color: white;
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
 }
 
 #planos .planos-info1 {
@@ -99,6 +99,6 @@
 }
 
 .planos-info p {
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
     color:black;
 }

@@ -14,7 +14,7 @@ html{
 }
 
 header {
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
     padding: 10px 30px;
     color: #f08080;
     background-color: #485563;
@@ -200,7 +200,7 @@ p {
     max-width: 1200px;
     margin: 0 auto;
     padding: 100px 0;
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
 }
 #saiba-mais .saiba-mais-header h1{
     margin-bottom: 50px;
@@ -254,29 +254,29 @@ p {
 
 #saiba-mais .saiba-mais-info h1 {
     color: #f08080;
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
     font-size: 30px;
 }
 
 #saiba-mais .project-info h1 {
     color: white;
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
 }
 
 #saiba-mais .saiba-mais-info h2 {
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
     font-size: 20px;
     color: grey;
 }
 
 #saiba-mais .saiba-mais-info p {
-    font-family: 'Poppis';
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
     font-size: 17px;
 }
 
 #saiba-mais .project-info h2 {
     color: white;
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
 }
 
 #saiba-mais .project-info1 {
