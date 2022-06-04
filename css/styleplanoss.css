@@ -1,0 +1,104 @@
+/* Seção de Planos */
+
+#planos {
+    background-color: #6667AB;
+}
+
+#planos .planos{
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 0;
+    font-family: 'Lato';
+}
+#planos .planos-header h1{
+    margin-bottom: 50px;
+}
+#planos .all-planos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#planos .planos-item{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+#planos .planos-lista {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    text-transform: uppercase;
+    padding-left: 40%;
+    font-family: 'Poppins';
+    font-size: 20px;
+}
+
+#planos .planos-info {
+    padding: 30px;
+    flex-basis: 50%;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    background-color: beige;
+    color: #485563;
+}
+
+#planos .planos-info h1 {
+    color: #6667AB;
+    font-family: 'Lato';
+}
+
+#planos .planos-info h2 {
+    color: white;
+    font-family: 'Poppins';
+}
+
+#planos .planos-info1 {
+    padding: 30px;
+    flex-basis: 50%;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #6667ab;
+    color: white;
+}
+
+#planos .planos-info h1{
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+#planos .planos-info h2{
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+#planos .planos-info1 h1{
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+#planos .planos-info1 h2{
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.planos-info p {
+    font-family: 'Poppins';
+    color:black;
+}
