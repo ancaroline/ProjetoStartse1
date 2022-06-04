@@ -291,6 +291,14 @@ p {
     color: white;
 }
 
+.project-info p {
+    font-family: 'Poppins', 'Times New Roman', Times, serif ;
+}
+
+.project-info1 p {
+    font-family: 'Poppins', 'Times New Roman', Times, serif ;
+}
+
 #saiba-mais .project-info h1{
     font-size: 4rem;
     font-weight: 500;
@@ -378,11 +386,5 @@ p {
     }
 }
 
-.project-info p {
-    font-family: 'Poppins', 'Times New Roman', Times, serif ;
-}
 
-.project-info1 p {
-    font-family: 'Poppins', 'Times New Roman', Times, serif ;
-}
 
