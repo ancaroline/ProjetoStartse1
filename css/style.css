@@ -376,8 +376,6 @@ p {
     #saiba-mais .project-item:nth-child(even) {
         flex-direction: row-reverse;
     }
-
-
 }
 
 .project-info p {
